@@ -1,0 +1,13 @@
+
+
+build:
+  info: 2.0.0
+
+loans:
+  message: loans contact info details for prod
+  contactDetails:
+    name: ajay malah
+    email: arryroy1101@gmail.com
+  onCallSupport:
+    - 7489463450
+    - 8871045049

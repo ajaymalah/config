@@ -1,0 +1,12 @@
+
+build:
+  info: 3.0.0
+
+acc:
+  message: cards application contact details for QA
+  contactDetails:
+    email: arryroy1101@gmail.com
+    name: Ajay Malah
+  onCallSupport:
+    - 7489463450
+    - 8871045049
