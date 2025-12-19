@@ -4,7 +4,7 @@ build:
   info: 2.0.0
 
 loans:
-  message: loans contact info details for prod
+  message: loans contact info details for production
   contactDetails:
     name: ajay malah
     email: arryroy1101@gmail.com
