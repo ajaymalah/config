@@ -3,7 +3,7 @@ build:
   info: 2.0.0
 
 cards:
-  message: cards application contact details for production
+  message: cards application contact details for Prod
   contactDetails:
     email: arryroy1101@gmail.com
     name: Ajay Malah
